@@ -1,0 +1,12 @@
+-conseguir la direccion ip desde la maquina virtual con 'ifconfig'
+-entrar con ssh desde la terminal con "ssh xxzarx@'direccionIp'"
+-crear la rama 'entrega5'
+-moverme a la rama entrega5
+-moverme a la carpeta Entrega5
+-crear el archivo 'entrega5Pasos.txt'
+-guardar los cambios
+-agregar los cambios con 'git add .'
+-hacer commit a los cambios 'git commit -m "subiendo entrega 5"'
+-pushear los cambios
+-introducir la key para poder pushear.
+-Completo :)
