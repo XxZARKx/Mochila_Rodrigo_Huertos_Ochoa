@@ -3,3 +3,8 @@ Direccion Ip y Mask:
 -inet 127.0.0.1  
 -netmask 255.0.0.0
 
+La dirección MAC ¿Es diferente a la IP pública y privada de nuestra máquina host?
+
+-Sí, la dirección MAC es diferente a la dirección IP pública y privada 
+de una máquina host. Cada dispositivo de red, como una tarjeta de red o una interfaz 
+inalámbrica, tiene una dirección MAC única asignada por el fabricante.
